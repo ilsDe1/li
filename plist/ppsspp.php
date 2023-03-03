@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict><key>items</key><array><dict><key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>https://archive.org/download/ppsspp-1677783643/PPSSPP__1677783643.ipa</string></dict><dict><key>kind</key><string>full-size-image</string><key>needs-shine</key><true/><key>url</key><string>https://i.ibb.co/LhndB27/6-B5-D4-E99-455-C-42-BC-888-A-DA170520-E671.png</string></dict><dict><key>kind</key><string>display-image</string><key>needs-shine</key><true/><key>url</key><string>https://i.ibb.co/LhndB27/6-B5-D4-E99-455-C-42-BC-888-A-DA170520-E671.png</string></dict></array><key>metadata</key><dict><key>bundle-identifier</key><string>kurd.app.ppsspp</string><key>bundle-version</key><string>1</string><key>kind</key><string>software</string><key>subtitle</key><string>scores</string><key>title</key><string>PPSSPP
+
+ashte mzere
+
+t.me/as_mobile94
+</string></dict></dict></array></dict></plist>
